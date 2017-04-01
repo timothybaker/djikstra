@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1481430155 source:c:\users\tbaker\desktop\cs_361\finals\problem_2\djikstras\src\coordinates.cpp
+	"coordinates.h"
+	<math.h>
+
+1481429858 c:\users\tbaker\desktop\cs_361\finals\problem_2\djikstras\include\coordinates.h
+
+1481502135 source:c:\users\tbaker\desktop\cs_361\finals\problem_2\djikstras\src\main.cpp
+	<iostream>
+	<fstream>
+	<random>
+	<ctime>
+	<list>
+	<queue>
+	"coordinates.h"
+	"node.h"
+	"data.h"
+
+1481498937 c:\users\tbaker\desktop\cs_361\finals\problem_2\djikstras\include\node.h
+	"coordinates.h"
+	<vector>
+	<iostream>
+
+1481496135 source:c:\users\tbaker\desktop\cs_361\finals\problem_2\djikstras\src\node.cpp
+	"node.h"
+
+1481496066 source:c:\users\tbaker\desktop\cs_361\finals\problem_2\djikstras\src\data.cpp
+	"data.h"
+
+1481496012 c:\users\tbaker\desktop\cs_361\finals\problem_2\djikstras\include\data.h
+	<iostream>
+
+1481430155 source:c:\users\tbaker\desktop\problem_2\djikstras\src\coordinates.cpp
+	"coordinates.h"
+	<math.h>
+
+1481429858 c:\users\tbaker\desktop\problem_2\djikstras\include\coordinates.h
+
+1481496066 source:c:\users\tbaker\desktop\problem_2\djikstras\src\data.cpp
+	"data.h"
+
+1481496012 c:\users\tbaker\desktop\problem_2\djikstras\include\data.h
+	<iostream>
+
+1481496135 source:c:\users\tbaker\desktop\problem_2\djikstras\src\node.cpp
+	"node.h"
+
+1481498937 c:\users\tbaker\desktop\problem_2\djikstras\include\node.h
+	"coordinates.h"
+	<vector>
+	<iostream>
+
+1481503645 source:c:\users\tbaker\desktop\problem_2\djikstras\src\main.cpp
+	<iostream>
+	<fstream>
+	<random>
+	<ctime>
+	<list>
+	<queue>
+	"coordinates.h"
+	"node.h"
+	"data.h"
+

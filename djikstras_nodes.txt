@@ -1,0 +1,133 @@
+------------------------------
+List of Djikstra Nodes by ID
+------------------------------
+
+Node ID: 1
+
+	Points to	Distance
+	7		107
+
+
+Node ID: 2
+
+	Points to	Distance
+	17		214
+	6		175
+	10		211
+	11		163
+
+
+Node ID: 3
+
+	Points to	Distance
+	5		9
+	15		76
+	13		206
+
+
+Node ID: 4
+
+	Points to	Distance
+
+
+Node ID: 5
+
+	Points to	Distance
+
+
+Node ID: 6
+
+	Points to	Distance
+
+
+Node ID: 7
+
+	Points to	Distance
+
+
+Node ID: 8
+
+	Points to	Distance
+	14		153
+
+
+Node ID: 9
+
+	Points to	Distance
+	12		159
+	3		183
+
+
+Node ID: 10
+
+	Points to	Distance
+	15		221
+	6		120
+
+
+Node ID: 11
+
+	Points to	Distance
+	2		163
+	16		150
+
+
+Node ID: 12
+
+	Points to	Distance
+	3		129
+	3		129
+
+
+Node ID: 13
+
+	Points to	Distance
+	16		61
+	19		164
+	6		84
+
+
+Node ID: 14
+
+	Points to	Distance
+	3		144
+	8		153
+
+
+Node ID: 15
+
+	Points to	Distance
+	19		87
+
+
+Node ID: 16
+
+	Points to	Distance
+	3		178
+
+
+Node ID: 17
+
+	Points to	Distance
+	5		196
+
+
+Node ID: 18
+
+	Points to	Distance
+	4		170
+	2		168
+	20		107
+
+
+Node ID: 19
+
+	Points to	Distance
+	11		88
+	12		166
+
+
+Node ID: 20
+
+	Points to	Distance
+
